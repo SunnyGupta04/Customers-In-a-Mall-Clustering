@@ -1,5 +1,8 @@
 # Customers-In-a-Mall-Clustering
 
+![download](https://user-images.githubusercontent.com/74828009/114234415-541bfb80-999c-11eb-8719-9a6969e07853.jpg)
+
+
 Problem Statement:
 
 Malls or shopping complexes are often indulged in the race to increase their customers and hence making huge profits. To achieve this task machine learning is being applied by many stores already.
